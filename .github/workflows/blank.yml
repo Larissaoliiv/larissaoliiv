@@ -1,0 +1,47 @@
+#Nome das Ações:  
+nome : Jogo da Cobra
+
+# Controlador do tempo que será feito a atualização dos arquivos.
+sobre :
+  agendar :
+      # atualizado a cada 5 horas.
+    -cron : " 0 */5 * * * "
+
+# Permite executar a lista de Actions (utilizada para testes de build).
+  fluxo de trabalho_dispatch :
+
+#regras​
+empregos :
+  construir :
+    executado : ubuntu-mais recente
+    passos :
+
+    # Verifica o repositório em $GITHUB_WORKSHOP, para que seu trabalho possa acessá-lo
+      - usa : ações/checkout@v2
+
+    # Repositório que será utilizado para gerar os arquivos.
+      - usos : Platane/snk@master
+        id : cobra-gif
+        com :
+          github_user_name : larissaoliiv 
+          gif_out_path : dist/github-contribution-grid-snake.gif
+          svg_out_path : dist/github-contribution-grid-snake.svg
+
+      - executar : status do git
+
+      # Para as atualizações.
+      - nome : Enviar alterações
+        usos : ad-m/github-push-action@master
+        com :
+          github_token : ${{ secrets.GITHUB_TOKEN }}
+          ramo : mestre
+          força : verdadeiro
+
+      - usa : crazy-max/ghaction-github-pages@v2.1.3
+        com :
+          # o branch de saída que mencionamos acima
+          target_branch : saída
+          build_dir : dist
+        ambiente :
+          GITHUB_TOKEN : ${{ secrets.GITHUB_TOKEN }}
+
