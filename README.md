@@ -17,7 +17,7 @@
  ### Segue minha rede social e email para contato:
  
 <div> 
-  <a href = "mailto:larissaoliveirapessoal7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://criarmeulink.com.br/u/1712959063"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larissa-oliveira-a1a794235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-  badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
@@ -27,5 +27,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larissaoliiv/larissaoliiv/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+
  
