@@ -1,5 +1,5 @@
 # Hello! I am Larissa Oliveira
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Larissaoliiv_/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Larissaoliiv/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-oliveira-a1a794235/)
 
 ![Larissaoliiv GitHub stats](https://github-readme-stats.vercel.app/api?username=Larissaoliiv&show_icons=true&theme=dracula)
