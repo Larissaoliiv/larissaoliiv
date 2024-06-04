@@ -13,7 +13,7 @@
     <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br><br>
     <img align="center" alt="React" src="https://img.shields.io/badge/React-ED8B00?style=for-the-badge&logo=React&logoColor=white">
-    <img align="center" alt="MySql" src="https://img.shields.io/badge/MySql-ED8B00?style=for-the-badge&logo=MySql&logoColor=white">
+    <img align="center" alt="MySql" src="https://img.shields.io/badge/MySql-00599C?style=for-the-badge&logo=MySql&logoColor=blue">
 </div><br>
 
 ## Technologies I want to learn: 
