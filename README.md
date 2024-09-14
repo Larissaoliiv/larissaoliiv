@@ -13,6 +13,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://devicon-website.vercel.app/api/react/original-wordmark.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://devicon-website.vercel.app/api/html5/plain-wordmark.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://devicon-website.vercel.app/api/python/plain-wordmark.svg">
 </div><br>
 
 ## Tecnologias que desejo aprender: 
